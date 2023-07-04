@@ -1,0 +1,7 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* background-image: url(Images/background.png); */
+    height:100vh;
+    overflow: hidden;
+}
